@@ -4,7 +4,7 @@ L'integralité des activités du module 3 semestre 4, filière II-BDCC sous l'en
 
 ## Partie 1 : ACP
 - Cours et notes personnelles : [ACP](./ACP.ipynb)
-- [x] [Activité 01 : Implémentation de l'ACP sans librairie](./Serie01/Activite01.ipynb)
+- [x] [Activité 01 : Implémentation de l'ACP](./Serie01/Activite01.ipynb)
 - [x] [Activité 02 : ACP avec `sklearn`](./Serie01/Activite02.ipynb)
 ## Partie 2 : Régression linéaire
 - Cours et notes personnelles : [Régression linéaire](./RegressionLineaire.ipynb)
