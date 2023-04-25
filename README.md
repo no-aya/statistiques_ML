@@ -9,5 +9,5 @@ L'integralité des activités du module 3 semestre 4, filière II-BDCC sous l'en
 ## Partie 2 : Régression linéaire
 - Cours et notes personnelles : [Régression linéaire](./RegressionLineaire.ipynb)
 - [x] [Exercice 01 : Températures](./Serie02/Exercice01.ipynb)
-- [x] [Exercice 02 : Démonstration](./Serie02/Exercice02.ipynb)
+- [ ] [Exercice 02 : Démonstration](./Serie02/Exercice02.ipynb)
 
